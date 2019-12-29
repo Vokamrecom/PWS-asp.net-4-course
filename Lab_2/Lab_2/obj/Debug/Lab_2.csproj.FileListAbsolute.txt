@@ -1,0 +1,213 @@
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\ApplicationInsights.config
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\Lab_2.dll.config
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\Lab_2.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\Lab_2.pdb
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\csc.exe
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\csc.exe.config
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\csc.rsp
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\csi.exe
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\csi.exe.config
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\csi.rsp
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\System.AppContext.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\System.Collections.Immutable.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\System.Console.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\System.IO.Compression.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\System.IO.FileSystem.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\System.IO.Pipes.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\System.Security.AccessControl.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\System.Security.Claims.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\System.ValueTuple.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\System.Xml.XPath.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\vbc.exe
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\vbc.exe.config
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\vbc.rsp
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\VBCSCompiler.exe
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\roslyn\VBCSCompiler.exe.config
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\Antlr3.Runtime.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\Microsoft.AI.DependencyCollector.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\Microsoft.AI.Web.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\Microsoft.AI.WindowsServer.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\Microsoft.ApplicationInsights.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\Microsoft.Web.Infrastructure.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\Newtonsoft.Json.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\System.Net.Http.Formatting.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\System.Web.Helpers.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\System.Web.Http.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\System.Web.Http.WebHost.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\System.Web.Mvc.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\System.Web.Optimization.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\System.Web.Razor.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\System.Web.WebPages.Deployment.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\System.Web.WebPages.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\System.Web.WebPages.Razor.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\WebGrease.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\Newtonsoft.Json.xml
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\System.Net.Http.Formatting.xml
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\System.Web.Helpers.xml
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\System.Web.Http.xml
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\System.Web.Http.WebHost.xml
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\System.Web.Mvc.xml
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\System.Web.Optimization.xml
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\System.Web.Razor.xml
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\System.Web.WebPages.xml
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\System.Web.WebPages.Deployment.xml
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\System.Web.WebPages.Razor.xml
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\Antlr3.Runtime.pdb
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\Microsoft.AI.DependencyCollector.xml
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\Microsoft.AI.WindowsServer.xml
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\Microsoft.AI.Web.xml
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\ru\System.Web.Helpers.resources.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\ru\System.Web.Http.resources.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\ru\System.Web.Mvc.resources.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\ru\System.Web.Optimization.resources.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\ru\System.Web.Razor.resources.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\ru\System.Web.WebPages.resources.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\obj\Debug\Lab_2.csprojAssemblyReference.cache
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.CopyComplete
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\obj\Debug\Lab_2.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_2\Lab_2\obj\Debug\Lab_2.pdb
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\ApplicationInsights.config
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\Lab_2.dll.config
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\Lab_2.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\Lab_2.pdb
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\csc.exe
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\csc.exe.config
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\csc.rsp
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\csi.exe
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\csi.exe.config
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\csi.rsp
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\Microsoft.Managed.Core.targets
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\System.AppContext.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\System.Collections.Immutable.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\System.Console.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\System.IO.Compression.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\System.IO.FileSystem.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\System.IO.Pipes.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\System.Reflection.Metadata.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\System.Security.AccessControl.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\System.Security.Claims.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\System.Security.Principal.Windows.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\System.ValueTuple.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\System.Xml.XmlDocument.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\System.Xml.XPath.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\vbc.exe
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\vbc.exe.config
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\vbc.rsp
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\VBCSCompiler.exe
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\roslyn\VBCSCompiler.exe.config
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\Antlr3.Runtime.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\Microsoft.AI.Agent.Intercept.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\Microsoft.AI.DependencyCollector.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\Microsoft.AI.Web.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\Microsoft.AI.WindowsServer.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\Microsoft.ApplicationInsights.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\Microsoft.Web.Infrastructure.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\Newtonsoft.Json.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\System.Diagnostics.DiagnosticSource.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\System.Net.Http.Formatting.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\System.Web.Helpers.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\System.Web.Http.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\System.Web.Http.WebHost.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\System.Web.Mvc.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\System.Web.Optimization.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\System.Web.Razor.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\System.Web.WebPages.Deployment.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\System.Web.WebPages.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\System.Web.WebPages.Razor.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\WebGrease.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\Newtonsoft.Json.xml
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\System.Net.Http.Formatting.xml
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\System.Web.Helpers.xml
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\System.Web.Http.xml
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\System.Web.Http.WebHost.xml
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\System.Web.Mvc.xml
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\System.Web.Optimization.xml
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\System.Web.Razor.xml
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\System.Web.WebPages.xml
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\System.Web.WebPages.Deployment.xml
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\System.Web.WebPages.Razor.xml
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\Antlr3.Runtime.pdb
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\System.Diagnostics.DiagnosticSource.xml
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\Microsoft.AI.DependencyCollector.xml
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\Microsoft.AI.WindowsServer.xml
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\Microsoft.AI.Web.xml
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\ru\System.Net.Http.Formatting.resources.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\ru\System.Web.Helpers.resources.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\ru\System.Web.Http.resources.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\ru\System.Web.Http.WebHost.resources.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\ru\System.Web.Mvc.resources.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\ru\System.Web.Optimization.resources.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\ru\System.Web.Razor.resources.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\ru\System.Web.WebPages.resources.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\ru\System.Web.WebPages.Deployment.resources.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\bin\ru\System.Web.WebPages.Razor.resources.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.CopyComplete
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\obj\Debug\Lab_2.dll
+E:\study4course\PWS\ASP.NET-2\Lab_2\Lab_2\obj\Debug\Lab_2.pdb
