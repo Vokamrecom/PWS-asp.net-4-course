@@ -16,8 +16,6 @@ namespace ws_service
     {
         public int id { get; set; }
         public string subject { get; set; }
-        public int notes { get; set; }
-    
-        public virtual student student { get; set; }
+        public Nullable<int> notes { get; set; }
     }
 }

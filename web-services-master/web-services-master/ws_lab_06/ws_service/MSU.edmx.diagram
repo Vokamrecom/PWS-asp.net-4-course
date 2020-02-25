@@ -8,6 +8,8 @@
         <EntityTypeShape EntityType="WSModel.student" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
         <EntityTypeShape EntityType="WSModel.note" Width="1.5" PointX="4.25" PointY="0.875" />
         <AssociationConnector Association="WSModel.FK_notes_students" />
+        <EntityTypeShape EntityType="WSModel.note1" Width="1.5" PointX="0.75" PointY="3.75" />
+        <EntityTypeShape EntityType="WSModel.student1" Width="1.5" PointX="2.75" PointY="3.75" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>

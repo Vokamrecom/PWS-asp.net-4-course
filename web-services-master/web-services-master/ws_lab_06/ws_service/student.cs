@@ -14,14 +14,7 @@ namespace ws_service
     
     public partial class student
     {
-        public student()
-        {
-            this.notes = new HashSet<note>();
-        }
-    
         public int id { get; set; }
         public string name { get; set; }
-    
-        public virtual ICollection<note> notes { get; set; }
     }
 }

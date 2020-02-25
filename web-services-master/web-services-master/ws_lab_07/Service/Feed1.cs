@@ -16,7 +16,7 @@ namespace Service {
             SyndicationFeed feed = new SyndicationFeed("Subjects & Notes", "Get list of notes by all subjects for this student", null);
             List<SyndicationItem> items = new List<SyndicationItem>();
 
-            HttpWebRequest request = (HttpWebRequest)HttpWebRequest.Create("http://localhost:54570/MSUService.svc/notes?$filter=id%20eq%20" + studentId + "&$format=json");
+            HttpWebRequest request = (HttpWebRequest)HttpWebRequest.Create("http://localhost:44357/WcfDataService1.svc/notes?$filter=id%20eq%20" + studentId + "&$format=json");
             request.Method = "GET";
             HttpWebResponse response = (HttpWebResponse)request.GetResponse();
             StreamReader reader = new StreamReader(response.GetResponseStream(), Encoding.UTF8);
